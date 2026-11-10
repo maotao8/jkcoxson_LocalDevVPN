@@ -51,6 +51,8 @@
 "device_ip" = "设备IP";
 "tunnel_ip" = "隧道IP";
 "subnet_mask" = "子网掩码";
+"allow_intermediate_addresses" = "允许中间地址";
+"allow_intermediate_addresses_desc" = "当允许中间地址时，将接受非基址 CIDR 地址（如 11.7.0.2/30），并将其归一化为对应的网络基路由（11.7.0.0/30）。";
 "app_information" = "应用程序信息";
 "privacy_policy" = "隐私政策";
 "data_collection_policy" = "数据收集政策";
